@@ -1,0 +1,14 @@
+.cart {
+  right: 0;
+  top: 68px;
+  position: sticky;
+  padding: 20px;
+}
+.cart p {
+  padding-top: 20px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 25px;
+}
